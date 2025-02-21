@@ -9,7 +9,7 @@
     <title>Form Example</title>
 </head>
 <body>
-    <h1>Join our Newsletter</h1>
+    <h1>Contact Us </h1>
     <form method="get">
     E-mail: <input type="text" name="email" id="email"><br><br>
     First Name:<input type="text" name="fname" id="fname"><br><br>
